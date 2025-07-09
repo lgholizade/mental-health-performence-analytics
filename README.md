@@ -28,7 +28,9 @@ Survey dataset from [Kaggle Mental Health in Tech Survey](https://www.kaggle.com
 - `dashboard.pbix` – Power BI file
 - `notebooks/` – Python data prep scripts
 - `README.md` – this file
+
 ### 📊 Power BI Dashboard Preview
+
 ![Power BI Dashboard](Screenshot%202025-07-09%20at%2011.41.43%20AM.png)
 
 ## 📜 License
