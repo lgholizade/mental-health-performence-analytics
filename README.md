@@ -17,9 +17,6 @@ This project explores how mental health conditions affect workplace performance 
 - Python (Pandas, Seaborn, Matplotlib)
 - Power BI
 - Git & GitHub
-### 📊 Power BI Dashboard
-
-![Dashboard Preview](dashboard/mental_health_dashboard.png)
 
 ## 📁 Data Source
 
@@ -31,6 +28,9 @@ Survey dataset from [Kaggle Mental Health in Tech Survey](https://www.kaggle.com
 - `dashboard.pbix` – Power BI file
 - `notebooks/` – Python data prep scripts
 - `README.md` – this file
+### 📊 Power BI Dashboard Preview
+
+![Dashboard Screenshot](Screenshot%202025-07-09%20at%2011.26.48%20AM.png)
 
 ## 📜 License
 
